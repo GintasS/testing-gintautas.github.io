@@ -3,33 +3,74 @@ layout: page
 title: Bootstrap 4 Github Pages
 ---
 
+<div class="container py-3">
+    <div class="row">
+        <div class="col-10 mx-auto">
+            <div class="accordion" id="faqExample">
+                <div class="card">
+                    <div class="card-header p-2" id="headingOne">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              Q: How does this work?
+                            </button>
+                          </h5>
+                    </div>
 
-## Kokios yra laikino apsigyvendinimo galimybės CERN?
-Dažniausiai studentai gyvena CERN [Saint Genis Pouilly](https://smb-dep.web.cern.ch/en/CERN_Housing/Saint_Genis_Hostel)  (Prancūzija) esančiame hostelyje, arba pačioje CERN teritorijoje [CERN Hotel](https://smb-dep.web.cern.ch/en/CERN_Housing/Bldg_38) (Šveicarija).
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#faqExample">
+                        <div class="card-body">
+                            <b>Answer:</b> It works using the Bootstrap 4 collapse component with cards to make a vertical accordion that expands and collapses as questions are toggled.
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header p-2" id="headingTwo">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                          Q: What is Bootstrap 4?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#faqExample">
+                        <div class="card-body">
+                            Bootstrap is the most popular CSS framework in the world. The latest version released in 2018 is Bootstrap 4. Bootstrap can be used to quickly build responsive websites.
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header p-2" id="headingThree">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Q. What is another question?
+                            </button>
+                          </h5>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faqExample">
+                        <div class="card-body">
+                            The answer to the question can go here.
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header p-2" id="headingThree">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Q. What is the next question?
+                            </button>
+                          </h5>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faqExample">
+                        <div class="card-body">
+                            The answer to this question can go here. This FAQ example can contain all the Q/A that is needed.
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-Mažiaus kaina yra 18.50 EUR ir 14 CHF už naktį atitinkamai, bet patartina kiek galima greičiau užsirezervuoti. Rezervacijos taisyklės yra labai lanksčios, todėl rezervaciją galima lengvai keisti.
-
-Alternatyviai galima mėginti ieškoti trumpalaikės nuomos. Pigiausi kambariai nuo 500 EUR (labai retai) iki beveik ~1000 EUR į mėnesį. Ieškoti galima pvz. [CERN Market]( http://cern.ch/market ).
-
-## Kokios maisto parduotuvės yra aplink CERN?
-Saint Genis Pouilly esančiame Carrefour parduotuvėje kainos yra šiek tiek didesnės negu Lietuvoje ir mažesnės nei Šveicarijoje. Carrefour nėra pati pigiausia parduotuvė St Genis. Šiek tiek toliau nuo centro yra Intermarche. Be to kainų skirtumas priklauso nuo individualių maisto produktų. Šveicarijos pusėje yra nedidelė Coop parduotuvė (Meyrin). Abi parduotuvės pasiekiamos viešuoju transportu. 
-
-## Kiek kainuoja viešasis transportas?
-Iš St Genis tiek į Meyrin, tiek į Prévessin ir atgal veža nemokamas [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit2)
-
-60 min dabar kainuoja 3 CHF pagrindinei miesto zonai (10). Bilietų tipų pasirinkimas yra nemažas.
-
-Atvykstant per Ženevos oro uostą, bagažo skyriuje galima pasiimti nemokamą 90 min viešojo transporto bilietą, svarbu su savimi turėti "boarding pass", nes jį reikės pateikti kontrolei. Į ir iš oro uosto veža ir [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit4)
-
-## Kur būtų galima pramokti prancūzų kalbos?
-
-Yra pigesni kursai pačiame [CERN Welcome klube]( http://club-welcome.web.cern.ch/Lang_EN.html ). pamoka ~10 CHF.
-
-Yra taipogi Ženevos universitete pigios studijos (bet reikia laukti kada gali užsirašyti).
-
-Profesionalūs kursai pačiame CERN ar išorėje kainuoja kelis šimtus CHF.
-
-[Iboux](http://iboux.com/) - tai virtuali kalbų mokymsi platforma, kur pamokos vyksta  "1 to 1" su mokytoju. Nusipirkus ilgesnio trukmės paketa (30 valandų), 1 valandos trukmės pamoka kainuoja 15 frankų. Šios platformos privalumai yra tai, kad galima mokytis iš bet kur, pamokų tvarkaraštį deliotis pagal save, visa mokytojo dėmėsys yra sukoncentruotas į tave. Rekomenduoju.
+        </div>
+    </div>
+    <!--/row-->
+</div>
+<!--container-->
 
 ## Kokie populiariausi maršrutai iš Lietuvos į CERN?
 
