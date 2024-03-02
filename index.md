@@ -3,111 +3,111 @@ layout: page
 title: Bootstrap 4 Github Pages
 ---
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+## Kokios yra laikino apsigyvendinimo galimybės CERN?
+Dažniausiai studentai gyvena CERN [Saint Genis Pouilly](https://smb-dep.web.cern.ch/en/CERN_Housing/Saint_Genis_Hostel)  (Prancūzija) esančiame hostelyje, arba pačioje CERN teritorijoje [CERN Hotel](https://smb-dep.web.cern.ch/en/CERN_Housing/Bldg_38) (Šveicarija).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+Mažiaus kaina yra 18.50 EUR ir 14 CHF už naktį atitinkamai, bet patartina kiek galima greičiau užsirezervuoti. Rezervacijos taisyklės yra labai lanksčios, todėl rezervaciją galima lengvai keisti.
 
-## Setup Guide
+Alternatyviai galima mėginti ieškoti trumpalaikės nuomos. Pigiausi kambariai nuo 500 EUR (labai retai) iki beveik ~1000 EUR į mėnesį. Ieškoti galima pvz. [CERN Market]( http://cern.ch/market ).
 
-### Create a repository from this template
+## Kokios maisto parduotuvės yra aplink CERN?
+Saint Genis Pouilly esančiame Carrefour parduotuvėje kainos yra šiek tiek didesnės negu Lietuvoje ir mažesnės nei Šveicarijoje. Carrefour nėra pati pigiausia parduotuvė St Genis. Šiek tiek toliau nuo centro yra Intermarche. Be to kainų skirtumas priklauso nuo individualių maisto produktų. Šveicarijos pusėje yra nedidelė Coop parduotuvė (Meyrin). Abi parduotuvės pasiekiamos viešuoju transportu. 
 
-* [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-* Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
-* Click the `Use this template` button on the top right of the page.
+## Kiek kainuoja viešasis transportas?
+Iš St Genis tiek į Meyrin, tiek į Prévessin ir atgal veža nemokamas [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit2)
 
-### Choose a name for your repository
+60 min dabar kainuoja 3 CHF pagrindinei miesto zonai (10). Bilietų tipų pasirinkimas yra nemažas.
 
-Here we have two possibilities:
+Atvykstant per Ženevos oro uostą, bagažo skyriuje galima pasiimti nemokamą 90 min viešojo transporto bilietą, svarbu su savimi turėti "boarding pass", nes jį reikės pateikti kontrolei. Į ir iš oro uosto veža ir [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit4)
 
-* **You want a user or organization website**
+## Kur būtų galima pramokti prancūzų kalbos?
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+Yra pigesni kursai pačiame [CERN Welcome klube]( http://club-welcome.web.cern.ch/Lang_EN.html ). pamoka ~10 CHF.
 
-  Choose the repository name `<your username>.github.io`.
+Yra taipogi Ženevos universitete pigios studijos (bet reikia laukti kada gali užsirašyti).
 
-* **You want a project website**
+Profesionalūs kursai pačiame CERN ar išorėje kainuoja kelis šimtus CHF.
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+[Iboux](http://iboux.com/) - tai virtuali kalbų mokymsi platforma, kur pamokos vyksta  "1 to 1" su mokytoju. Nusipirkus ilgesnio trukmės paketa (30 valandų), 1 valandos trukmės pamoka kainuoja 15 frankų. Šios platformos privalumai yra tai, kad galima mokytis iš bet kur, pamokų tvarkaraštį deliotis pagal save, visa mokytojo dėmėsys yra sukoncentruotas į tave. Rekomenduoju.
 
-  Choose the repository name `<whatever you want>`.
+## Kokie populiariausi maršrutai iš Lietuvos į CERN?
 
-### Activate Github Pages on your repository
+Dažniausiai renkamės airBaltic, Brussels Airlines, Ukraine International Airlines ar LOT (Polish Airlines) iš ekonominės pusės. Tada maršrutas VNO -> GVA -> VNO (round-trip) pigiausiai gaunasi ~150 EUR. Standartinė kaina yra kažkur tarp 200-250 EUR.
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+Alternatyva (bet ne visada pasiteisina) yra skristi į MXP (Milan-Malpensa Airport), tada pasiimti autobusą iki Milano ir tada traukiniu/autobusu grįžti. MXP -> Milanas autobusas yra 5 EUR. Traukinys labai retai gali kainuoti 25 EUR. Milan -> Geneva pigiausias FlixBus ~23 EUR.
 
-### That's it
+## Koks sveikatos draudimas reikalinkas vykstant į CERN?
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+[HID (Home Institution Declaration) dokumente]( http://usersoffice.web.cern.ch/sites/usersoffice.web.cern.ch/files/pdf/Formalities/HomeInstitutionDeclarationforUO.pdf ) parašyta:
 
-## Customization Guide
 
-### Modify the configuration
+> Social insurance is the responsibility of the home institution and, that failing, of the candidate;
+> in particular, the candidate will make sure that he/she has medical insurance that is adequate in
+> Switzerland and France for him/herself and accompanying family members, which shall include cover
+> for occupational illness and accidents for him/herself;
+> he/she has adequate financial resources to support him/herself and accompanying family members;
+> the home institution is responsible for verifying continuing compliance with the above conditions;
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+Europos sveikatos kortelė gali padengti tik dalį išlaidų (lietuviškomis kainoms), todėl pravartu įsigyti papildomą draudimą.
 
-### Change your theme
+## Kokios yra vietinės transporto galimybės?
 
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
+* [TPG](https://www.tpg.ch/) - vešiojo transporto puslapis Ženevos regione;
+* [SBB](https://www.sbb.ch/en/home.html) - tarmiestiniai traukiniai Šveicarijoje;
+* [https://www.blablacar.fr/](https://www.blablacar.fr/) - pavežėjimo platforma;
+* Yra galimybė nuomotis automobilį iš šalia oro uosto esančių nuomos bendrovių (pigiausia yra Prancuzijos pusėje)
+* [Drivy.com](https://www.drivy.com/) - automibilių nuoma iš žmonių, principas panašus į Airbnb;
+* [auvergnerhonealpes.fr](https://www.auvergnerhonealpes.fr/253-transport-interurbain.htm) - čia čia galima rasti informaciją apie viešąjį transportą Haute-Savoie regione;
+* Easybys.com kursuoja marštru "Geneva airport - Chamonix Bus Station;
+* Flixbus.com vyksta iš ženevos į Milaną;
+* Ir dar kelios, apie kurias plačiau [čia](https://www.google.com). 
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
+## Ar yra taikomos nuolaidos transporto bilietams (reikėtų patikrinti) ?
 
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
+Yra dviejų tipų nuolaidų kortelės:
 
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
+* Taip vadinamas "Halfteris" (apie 180 chf) - suteikia 50 % nuolaida metams viešajam transportui į kuriuos įeina traukiniai, keltuvai bei laivai visoje Šveicarijoje. Ji suteikia galimybę įsigyti toliau išvardintas korteles.
+* "7pm to 7am" (apie 120 chf) - šios kortelės dėka galima naudotis traukiniais Šveicarijoje nemokamai tarp 19 ir 7 val., tačiau ją galima įsigyti tik esant jaunesniam nei 25 metai.
+* Taip pat yra galimybė įsigyti kortelę, kuri suteikia 12 dienų keliauti nemokamai per metus pasirinktomis dienomis. 
 
-That's it, you now have a totally different appearance for you website.
+Visos šios kortelės gali būti įsigytos SBB astovybėse. Taip pat SBB kartas nuo karto organizuoja akcijas ( pvz. galima įsigyti bilieta, su kuriuo galima keliauti nemokamai visą dieną).
 
-### Modify the content
+## Pajamų deklaravimas Lietuvoje
 
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
+Šios gairės skirtos pildyti deklaraciją už 2018 metus. 
 
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
+1. Deklaravimo nuotykis prasideda čia: https://deklaravimas.vmi.lt/lt/Pradinis_Prisijungimo_puslapis/Prisijungimasperisorinessistemas.aspx
+2. Prisijungti per išorines priemones. 
+3. Kiekviena prisijungimo priemonė yra skirtinga (Swedbank atveju prisijungus prie banko reikia spausti "VMI el. paslaugos").
+4. Sėkmės atveju atsidaro VMI deklaravimo sistema EDS.
+5. Atsidaryti “Preliminarios deklaracijos” -> “Metinė pajamų”.
+6. Apatinėje lentelėje “Preliminarių deklaracijų sąrašas” atsidaryti GPM308 v3, kur mokestinis laikotarpis už 2018 metus.
+7. Bus du mygtukai: peržiūrėti arba pildyti. Spausti "pildyti".
+8. GPM308P “Apmokestinamosios pajamos” formoje įrašyti: 
 
-### Run Jekyll on your computer to speed up testing
+   - P1 - 1, nes [1]
+   - P2 - 01
+   - P3 - CH
+   - P4 - Pajamos Eurais konvertuotos pagal mokestinio laikotarpio paskutinės dienos (šiuo atveju 2018-12-31) Lietuvos Banko kursą [2]
+   - P5 - 0
+   - P6 - 0
 
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
+9. Spausti "Pateikti deklaraciją", ir pamiršti šią siaubingą sistemą iki kitų metų.
+10. Pasak VMI konsultanto, jokių dokumentų pagrindžiančių neapmokestinamas pajamas kelti į sistemą iš karto nereikia, nebent to paprašys VMI darbuotojai, kai peržiūrės pateiktas deklaracijas.
 
-To do so:
+Kalbant telefonu su VMI konsultantu sužinojau, jog jeigu asmuo tenkina GPMĮ 17 str. 1 dalį, 48 punktą [3], tada jam apskritai nereikia deklaruoti pajamų gautų iš TO (tarptautinių organizacijų). Šiai kategorijai galėtų priklausyti VU siunčiami darbuotojai, bet tai turėtų patvirtinti respektabilus šaltinis iš VU.
 
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
+Deklaracijos bijoti nereikia, nes pajamos negali būti apmokestinamos du kartus [4].
 
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
+[1] Teisės aktų registre yra dokumentas, kuriame aiškinama, kaip pildyti deklaraciją. VI SKYRIUS, 25 punktas 
+“Kai 2018 m. nuolatinis Lietuvos gyventojas deklaruoja užsienio valstybėje per 2018 m. mokestinį laikotarpį gautas pajamas, kurios pagal GPMĮ 37 straipsnį yra atleidžiamos nuo pajamų mokesčio Lietuvos Respublikoje, P1 laukelyje vietoje mokesčio tarifo jis turi įrašyti skaitmenį „1“.”
+https://www.e-tar.lt/portal/lt/legalAct/TAR.EBC3BDD66541/IKsRYKEGOp
 
-## Known issues
+[2] Lietuvos Banko skelbiamas valiutų kursas 
+https://www.lb.lt/lt/kasdien-skelbiami-euro-ir-uzsienio-valiutu-santykiai-skelbia-europos-centrinis-bankas?class=Eu&type=day&selected_curr=CHF&date_day=2018-12-31
 
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
+[3] GPMĮ 17 straipsnis. Neapmokestinamos pajamos. http://www.infolex.lt/ta/114178:str17
 
-## How to contribute
-
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [William Moore's website](https://will2bill.com/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-* [libcoap.net](https://libcoap.net/)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
-
+[4] GPMĮ 37 straipsnis. Pajamų, gautų užsienio valstybėse, dvigubo apmokestinimo panaikinimas.
+http://www.infolex.lt/ta/114178:str37
