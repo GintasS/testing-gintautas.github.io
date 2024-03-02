@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
 ---
 
 <div class="container py-3">
