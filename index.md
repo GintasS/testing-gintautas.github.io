@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-10 mx-auto">
+    <div>
         <div class="accordion" id="faqExample">
             <div class="card">
                 <div class="card-header p-2" id="headingOne">
@@ -21,6 +21,7 @@ layout: page
                         Alternatyva (bet ne visada pasiteisina) yra skristi į MXP (Milan-Malpensa Airport), tada pasiimti autobusą iki Milano ir tada traukiniu/autobusu grįžti. MXP -> Milanas autobusas yra 5 EUR. Traukinys labai retai gali kainuoti 25 EUR. Milan -> Geneva pigiausias FlixBus ~23 EUR.
                     </div>
                 </div>
+                
             </div>
             <div class="card">
                 <div class="card-header p-2" id="headingTwo">
