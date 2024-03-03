@@ -47,9 +47,17 @@ layout: page
 
 <h4>DUK (dažniausiai užduodami klausimai) apie CERN</h4>
 
-<div>
-  <div>
-      <div class="col-15 mx-auto">
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseGeneralQuestions" aria-expanded="false" aria-controls="collapseExample">
+    Bendriniai klausimai
+  </button>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseStudentQuestions" aria-expanded="false" aria-controls="collapseExample">
+    Klausimai studentams
+  </button>
+</p>
+
+  <div class="collapse" id="collapseGeneralQuestions">
+      <div class="col-15 mx-auto card card-body">
           <div class="accordion" id="faqExample">
                   
                 <div class="card">
@@ -346,11 +354,9 @@ layout: page
 
       </div>
   </div>
-  <br><br>
-  <h3>SKILTIS STUDENTAMS</h3>
-  <br>
-  <div>
-    <div class="col-15 mx-auto">
+
+  <div class="collapse" id="collapseStudentQuestions">
+    <div class="col-15 mx-auto card card-body">
         <div class="accordion" id="faqExample">
         
               <div class="card">
@@ -425,8 +431,6 @@ layout: page
             </div>
         </div>
   </div>
-</div>
-
 
 
 
