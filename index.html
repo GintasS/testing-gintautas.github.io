@@ -24,23 +24,10 @@ layout: page
  
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
 <h5> Paskutinį kartą puslapis atnaujintas: 2024-03-02</h4>
-
 
 
 
@@ -460,3 +447,15 @@ layout: page
         </div>
     </div>
 </div>
+
+<script>
+  $(document).ready(function(){
+    $('#accordion').on('shown.bs.collapse', function (e) {
+      var $panel = $(e.target).find('.card-body');
+      var $input = $panel.find('input[type="text"]');
+      if ($input.length > 0) {
+        $input.focus();
+      }
+    });
+  });
+</script>
