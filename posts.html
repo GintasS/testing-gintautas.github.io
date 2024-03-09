@@ -2,9 +2,19 @@
 layout: page
 ---
 
-<div class="card">
-    <div class="card-body">
-		<section>
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Pasirašyta CERN asocijuotosios narystės sutartis
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        <section>
 			<article class="page" itemscope="" itemtype="http://schema.org/CreativeWork">
 				<meta itemprop="headline" content="Pasirašyta CERN asocijuotosios narystės sutartis">
 				<meta itemprop="description" content="Birželio 27d. Vilniuje CERN Generalinė direktorė Fabiola Gianotti ir Lietuvos užsienio reikalų ministras Linas Linkevičius kartu su Lietuvos prezidente Dalia Grybauskaite pasirašė sutartį dėl Lietuvos asocijuotos narystės CERN. Sutartis įsigalios, kai ją ratifikuos Lietuvos Respublikos Seimas.">
@@ -31,34 +41,42 @@ layout: page
 				</div>
 			</article>
 		</section>
-	</div>
-</div>
-
-<br><br><br>
-
-<div class="card">
-    <div class="card-body">
-		<section>
-		<article class="page" itemscope="" itemtype="http://schema.org/CreativeWork">
-			<meta itemprop="headline" content="Ratifikuota CERN sutartis">
-			<meta itemprop="description" content="Gruodžio 7d. Lietuvos Seimas vienbalisiais priėmė įstatymą dėl DĖL LIETUVOS RESPUBLIKOS IR EUROPOS BRANDUOLINIŲ MOKSLINIŲ TYRIMŲ ORGANIZACIJOS (CERN) SUSITARIMO DĖL CERN ASOCIJUOTOJO NARIO STATUSO SUTEIKIMO RATIFIKAVIMO.">
-			<meta itemprop="datePublished" content="December 07, 2017">
-			
-			<div class="page__inner-wrap">		  
-			  <header>
-				<h1 id="page-title" class="page__title" itemprop="headline">Ratifikuota CERN sutartis</h1>			  	  
-			  </header>
-			  
-			  <section class="page__content" itemprop="text">	
-				<p>Gruodžio 7d. Lietuvos Seimas vienbalisiais priėmė įstatymą dėl DĖL LIETUVOS RESPUBLIKOS IR EUROPOS BRANDUOLINIŲ MOKSLINIŲ TYRIMŲ ORGANIZACIJOS (CERN) SUSITARIMO DĖL CERN ASOCIJUOTOJO NARIO STATUSO SUTEIKIMO RATIFIKAVIMO.</p>
-				<p><a href="https://www.e-tar.lt/portal/lt/legalAct/ac77fce0e01111e7b3f0a470b0373cb2">Oficialus teisės akto tekstas</a></p>
-			  </section>
-			  
-			  <footer class="page__meta">    
-				<p class="page__date"><strong><!-- <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> --> Atnaujinta:</strong> <time datetime="2017-12-07T00:00:00+00:00">December 07, 2017</time></p>
-			  </footer>
-			</div>	
-		  </article>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Ratifikuota CERN sutartis
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        <section>
+			<article class="page" itemscope="" itemtype="http://schema.org/CreativeWork">
+				<meta itemprop="headline" content="Ratifikuota CERN sutartis">
+				<meta itemprop="description" content="Gruodžio 7d. Lietuvos Seimas vienbalisiais priėmė įstatymą dėl DĖL LIETUVOS RESPUBLIKOS IR EUROPOS BRANDUOLINIŲ MOKSLINIŲ TYRIMŲ ORGANIZACIJOS (CERN) SUSITARIMO DĖL CERN ASOCIJUOTOJO NARIO STATUSO SUTEIKIMO RATIFIKAVIMO.">
+				<meta itemprop="datePublished" content="December 07, 2017">
+				
+				<div class="page__inner-wrap">		  
+				  <header>
+					<h1 id="page-title" class="page__title" itemprop="headline">Ratifikuota CERN sutartis</h1>			  	  
+				  </header>
+				  
+				  <section class="page__content" itemprop="text">	
+					<p>Gruodžio 7d. Lietuvos Seimas vienbalisiais priėmė įstatymą dėl DĖL LIETUVOS RESPUBLIKOS IR EUROPOS BRANDUOLINIŲ MOKSLINIŲ TYRIMŲ ORGANIZACIJOS (CERN) SUSITARIMO DĖL CERN ASOCIJUOTOJO NARIO STATUSO SUTEIKIMO RATIFIKAVIMO.</p>
+					<p><a href="https://www.e-tar.lt/portal/lt/legalAct/ac77fce0e01111e7b3f0a470b0373cb2">Oficialus teisės akto tekstas</a></p>
+				  </section>
+				  
+				  <footer class="page__meta">    
+					<p class="page__date"><strong><!-- <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> --> Atnaujinta:</strong> <time datetime="2017-12-07T00:00:00+00:00">December 07, 2017</time></p>
+				  </footer>
+				</div>	
+			  </article>
 		</section>
-	</div>
+      </div>
+    </div>
+  </div>
 </div>
